@@ -12,6 +12,8 @@ src-tauri/gen/schemas
 # Buddy Runtime Data (CRITICAL: Do not commit personal memories/config)
 buddy-data/
 
+docs
+
 # OS / Editor
 .vscode/*
 !.vscode/extensions.json
