@@ -1,0 +1,26 @@
+# Node
+node_modules
+dist
+dist-ssr
+npm-debug.log*
+
+# Rust / Tauri
+src-tauri/target/
+src-tauri/Cargo.lock
+src-tauri/gen/schemas
+
+# Buddy Runtime Data (CRITICAL: Do not commit personal memories/config)
+buddy-data/
+
+# OS / Editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
